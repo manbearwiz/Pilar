@@ -1,4 +1,3 @@
-
 Raspberry Pi Light Tracker
 =======================
 
@@ -15,6 +14,8 @@ Dependencies
 
 Hardware Setup
 ------------
+
+[View details on Upverter](https://upverter.com/kmb32123/fb9a9af913898658/Raspberry-Pi-Light-Tracker/)
 
 ###Parts
 

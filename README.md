@@ -1,7 +1,7 @@
 Raspberry Pi Light Tracker
 =======================
 
-Possibly the most over engineered solar tracker. Python script to read analog photoresistors mounted on a panel and move a stepper motor accordingly. Several command are implemented and can be entered via a web interface on port 8080.
+Possibly the most over engineered solar tracker ever. Python script to read analog photoresistors mounted on a panel and move a stepper motor accordingly. Several commands are implemented and can be entered via a web interface on port 8080.
 
 Dependencies
 ------------

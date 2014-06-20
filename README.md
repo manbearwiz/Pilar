@@ -1,7 +1,7 @@
-Raspberry Pi Light Tracker
-=======================
+Pilar
+=====
 
-Possibly the most over engineered solar tracker ever. Python script to read analog photoresistors mounted on a panel and move a stepper motor accordingly. Several commands are implemented and can be entered via a web interface on port 8080.
+Essentially an over-engineered solar tracker, Pilar is a Python script meant to run on a Raspberry Pi to read analog photoresistors and move a stepper motor accordingly. Several commands are implemented and can be entered via a web interface on port 8080.
 
 Dependencies
 ------------

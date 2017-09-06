@@ -1,10 +1,8 @@
-Pilar
-=====
+# Pilar
 
 Essentially an over-engineered solar tracker, Pilar is a Python script meant to run on a Raspberry Pi to read analog photoresistors and move a stepper motor accordingly. Several commands are implemented and can be entered via a web interface on port 8080.
 
-Dependencies
-------------
+## Dependencies
 
 - [WebIOPi](https://code.google.com/p/webiopi/) - Used to interface via SPI with the MCP3008 adc chip and read the analog photoresistor values.
 
@@ -12,14 +10,13 @@ Dependencies
 
 - [RPi.GPIO](http://sourceforge.net/p/raspberry-gpio-python/wiki/Home/) - Used to control the GPIO ports for the stepper motor
 
-Hardware Setup
-------------
+## Hardware Setup
 
 [View details on Upverter](https://upverter.com/kmb32123/fb9a9af913898658/Raspberry-Pi-Light-Tracker/)
 
-###Parts
+### Parts
 
-Amount | Id | Descripition
+Amount | Id | Description
 -------|----|-------------
 1 | | Adafruit Pi T-Cobbler Breakout Kit for Raspberry Pi
 1 | MCP3008 | 8-Channel 10-Bit ADC With SPI Interface
